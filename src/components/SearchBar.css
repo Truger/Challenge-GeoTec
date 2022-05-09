@@ -1,0 +1,48 @@
+.SearchBar {
+    background-color: blue;
+    display: flex;
+    margin-bottom: 10px;
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
+
+.FormsBar {
+    align-self: center;
+    margin: 0 auto;
+    width: 30vw;
+}
+
+.ImputContainer {
+    border-bottom: 2px solid white;
+    margin: 20px 0px;
+    display: flex;
+}
+
+.ImputBar {
+    background-color: transparent;
+    border: none;
+    color: white;
+    font-size: 20px;
+    margin-bottom: 4px;
+    flex-grow: 1;
+}
+
+.ImputBar:focus {
+    outline: none;
+}
+
+.SearchButton {
+    background-color: transparent;
+    border: none;
+    color: white;
+    font-size: 20px;
+}
+
+.SearchButton:hover {
+    cursor: pointer;
+}
+
+.SearchButton:active {
+    transform: translateY(2px);
+}

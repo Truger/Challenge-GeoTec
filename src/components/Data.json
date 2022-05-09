@@ -1,0 +1,36 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "name": "Remera Adidas Negra",
+            "size": "Extra large",
+            "price": 3000,
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Porttitor lacus luctus accumsan tortor posuere ac. Quam vulputate dignissim suspendisse in est ante in nibh mauris. Id aliquet risus feugiat in ante metus dictum. Tempus imperdiet nulla malesuada pellentesque elit eget gravida.",
+            "file": "/Products/remera_adidas_1.jpg"
+        },
+        {
+            "id": 2,
+            "name": "Remera Adidas Blanca",
+            "size": "Medium",
+            "price": 3700,
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Commodo quis imperdiet massa tincidunt nunc pulvinar. Purus faucibus ornare suspendisse sed nisi lacus sed. Cras sed felis eget velit aliquet sagittis id consectetur. Nulla at volutpat diam ut venenatis tellus in metus.",
+            "file": "/Products/remera_adidas_2.jpg"
+        },
+        {
+            "id": 3,
+            "name": "Remera Puma Verde",
+            "size": "Small",
+            "price": 3500,
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Molestie at elementum eu facilisis sed odio morbi quis commodo. Urna nec tincidunt praesent semper. Elementum nisi quis eleifend quam. Quisque sagittis purus sit amet volutpat consequat mauris.",
+            "file": "/Products/remera_puma_1.jpg"
+        },
+        {
+            "id": 4,
+            "name": "Remera Puma Negra",
+            "size": "Large",
+            "price": 4000,
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Morbi tempus iaculis urna id. Ullamcorper sit amet risus nullam eget felis eget nunc. A diam maecenas sed enim ut sem viverra aliquet. Sed augue lacus viverra vitae congue eu consequat ac.",
+            "file": "/Products/remera_puma_2.jpg"
+        }
+    ]
+}

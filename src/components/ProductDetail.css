@@ -1,0 +1,95 @@
+.DetailContainer {
+    background-color: white;
+    display: flex;
+    flex-wrap: wrap;
+    width: 70%;
+    margin: 80px auto;
+    border-radius: 5px;
+    box-shadow: 2px 2px 10px gray;
+
+
+}
+
+.BackButton {
+    background-color: blue;
+    box-shadow: 0 10px 5px -5px gray;
+    font-size: 50px;
+    color: white;
+    margin: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+    border: none;
+    border-radius: 50%;
+}
+
+.NameSize {
+    margin-top: 50px;
+    margin-left: 50px;
+}
+
+.DetailName {
+    font-size: 30px;
+    margin-bottom: 0px;
+
+}
+
+.DetailSize {
+    color: gray;
+    margin-top: 5px;
+}
+
+.DescImg {
+    display: flex;
+}
+
+.DescContainer {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-self: center;
+    margin-left: 30px;
+    margin-right: 30px;
+}
+
+.DetailDesc {
+    font-size: 30px;
+    margin-bottom: 0px;
+
+}
+
+.ProductDetail {
+    margin-top: 10px;
+    margin-bottom: 0px;
+}
+
+.DetailPrice {
+    display: block;
+    color: gray;
+    margin-top: 10px;
+}
+
+.BuyButton {
+    font-size: 15px;
+    color: white;
+    background-color: blue;
+    border: none;
+    border-radius: 5px;
+    width: 30%;
+    align-self: center;
+    padding: 10px 5px;
+    box-shadow: 0 6px 5px -5px gray;
+}
+
+.BuyButton:hover {
+    cursor: pointer;
+}
+
+.BuyButton:active {
+    transform: translateY(2px);
+}
+
+.DetailImage {
+    width: 30vw;
+    margin-left: 60px;
+    order: -1;
+}
